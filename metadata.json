@@ -1,0 +1,6 @@
+{
+  "name": "Citations & Quizz AI",
+  "description": "Application multi-fonctionnelle avec citations, quizz générés par IA Gemini, chat IA et messagerie privée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
